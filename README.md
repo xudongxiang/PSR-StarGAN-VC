@@ -6,4 +6,4 @@ In order to compare converted speech by PSR-StarGAN-VC with official demo of Sta
 * The official demo of StarGAN-VC can be found in ![StarGAN-VC](http://www.kecl.ntt.co.jp/people/kameoka.hirokazu/Demos/stargan-vc/);<br>
 * You also can compare our proposed method PSR-StarGAN-VC with the newest method ![StarGAN-VC2](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/stargan-vc2/index.html) by opening two windows. 
 
-<span style="color: green"> Some green text </span>
+<font color="green"> Some green text </font>
