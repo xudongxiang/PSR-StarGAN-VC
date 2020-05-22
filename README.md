@@ -8,3 +8,4 @@ In order to compare converted speech by PSR-StarGAN-VC with official demo of Sta
 ```json
 #f03c15
 ```
+-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
