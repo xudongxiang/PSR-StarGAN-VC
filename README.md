@@ -5,6 +5,7 @@
     </td>
   </tr>
 </table>
+
 # Converted speech of PSR-StarGAN-VC
 * This repository storages converted speech of PSR-StarGAN-VC. If you want to get more converted speech, please contact with me by email.  
 * In order to compare converted speech by PSR-StarGAN-VC with official demo of StarGAN-VC, we need to select same speaker as they select. Experiment are carried on four speakers (SF1, SF2, SM1, and SM2) following the two systems again.
