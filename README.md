@@ -1,10 +1,11 @@
-<table style="width:100%">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/xudongxiang/demo/blob/master/images/G-D-C-5-7-low.jpg">
-    </td>
-  </tr>
-</table>
+
+//<table style="width:100%">
+//  <tr>
+//    <td align="center">
+//      <img src="https://github.com/xudongxiang/demo/blob/master/images/G-D-C-5-7-low.jpg">
+//    </td>
+//  </tr>
+//</table>
 
 # Converted speech of PSR-StarGAN-VC
 * This repository storages converted speech of PSR-StarGAN-VC. If you want to get more converted speech, please contact with me by email.  
