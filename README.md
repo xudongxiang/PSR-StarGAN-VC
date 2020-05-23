@@ -1,5 +1,5 @@
 # Converted speech of PSR-StarGAN-VC
-* This repository storages converted speech of PSR-StarGAN-VC. If you want to get more converted speech, please contact with me by email.  
+* This repository stores converted speech of PSR-StarGAN-VC. If you want to get more details of PSR-StarGAN-VC, converted speech, please [contact](18305169283@163.com) me, and we welcome any feedback.  
 * In order to show that advantages of PSR-StarGAN-VC are not highlighted by deliberately lowering the performance of StarGAN-VC, we hope to accept public review by directly comparing our method with public demo of StarGAN-VC or StarGAN-VC2, which can get in StarGAN-VC2. The order of our converted speech has been adjusted to be the same as theirs. We select same speaker as they select. Experiment are carried on four speakers (SF1, SF2, SM1, and SM2) following the two systems again.
 # Demo of PSR-StarGAN-VC
 * The demo of PSR-StarGAN-VC can be found in [PSR-StarGAN-VC](http://htmlpreview.github.io/?https://github.com/xudongxiang/demo/blob/master/PSR-StarGAN-VC.html) . If you can't open this website, please utilize vpn to connect or [download](https://github.com/xudongxiang/demo/blob/master/demo-four.zip) to local and compare it with StarGAN-VC or StarGAN-VC2;<br>
