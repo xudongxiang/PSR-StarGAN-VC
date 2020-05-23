@@ -1,7 +1,7 @@
 <table style="width:100%">
   <tr>
     <td align="center">
-      <img src="https://github.com/xudongxiang/demo/blob/master/images/G-D-C-5-7.jpg">
+      <img src="https://github.com/xudongxiang/demo/blob/master/images/G-D-C-5-7-low.jpg">
     </td>
   </tr>
 </table>
